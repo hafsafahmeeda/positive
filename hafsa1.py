@@ -1,1 +1,1 @@
-print("strong girl hafsa")
+print("good girl hafsa")
